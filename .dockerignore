@@ -1,0 +1,12 @@
+.streamlit/
+venv/
+.git/
+.gitignore
+__pycache__/
+*.pyc
+*.log
+.system_generated/
+scratch/
+task.md
+walkthrough.md
+implementation_plan.md
